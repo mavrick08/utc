@@ -4,8 +4,5 @@ if age > 18:
     print("Are you going to vote?")
 else:
     print("Dont vote")
-<<<<<<< HEAD
     print("Go home")
-=======
     print("I am added in Test Branch")
->>>>>>> test
