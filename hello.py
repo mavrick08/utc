@@ -1,1 +1,5 @@
-print("I am Hungry")
+age = int(input("Enter Your age: "))
+if age > 18:
+    print("Vote")
+else:
+    print("Dont vote")
